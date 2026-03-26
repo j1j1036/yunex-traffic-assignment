@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: TrafficApp
+Class-Path: jackson-databind-2.15.2.jar jackson-annotations-2.15.2.jar j
+ ackson-core-2.15.2.jar
+

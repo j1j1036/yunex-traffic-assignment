@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="terminal-app:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/terminal_app_jar</output-path>
+    <root id="root">
+      <element id="archive" name="terminal-app.jar">
+        <element id="module-output" name="terminal-app" />
+      </element>
+      <element id="library" level="project" name="fasterxml.jackson.core.databind" />
+    </root>
+  </artifact>
+</component>
